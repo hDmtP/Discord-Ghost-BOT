@@ -4,7 +4,7 @@
 
 
 
-   <img alt="GitHub issues badge" src="https://img.shields.io/github/issues/hDmtP/Discord-Ghost-BOT">         <img alt="GitHub forks badge" src="https://img.shields.io/github/forks/hDmtP/Discord-Ghost-BOT">         <img alt="GitHub stars badge" src="https://img.shields.io/github/stars/hDmtP/Discord-Ghost-BOT">         <img alt="preview badge" src="https://img.shields.io/github/license/hDmtP/Discord-Ghost-BOT?style=plastic">         
+   <img alt="GitHub issues badge" src="https://img.shields.io/github/issues/hDmtP/Discord-Ghost-BOT" href="https://github.com/hDmtP/Discord-Ghost-BOT/issues">         <img alt="GitHub forks badge" src="https://img.shields.io/github/forks/hDmtP/Discord-Ghost-BOT">         <img alt="GitHub stars badge" src="https://img.shields.io/github/stars/hDmtP/Discord-Ghost-BOT">         <img alt="preview badge" src="https://img.shields.io/github/license/hDmtP/Discord-Ghost-BOT?style=plastic">         
 
 
 
